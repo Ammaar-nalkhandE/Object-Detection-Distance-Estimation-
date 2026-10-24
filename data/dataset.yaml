@@ -1,0 +1,11 @@
+# Unified robotics navigation dataset
+path: /home/ammaar/Documents/zzz HACKS&PROJS/eric_assisment/robot-nav-distance/data
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names:
+  0: cone
+  1: barrier
+  2: stop_sign

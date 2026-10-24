@@ -1,0 +1,405 @@
+[INFO] YOLO weights: runs/detect/robot-nav-baseline2/weights/best.pt
+[INFO] Classes: {0: 'cone', 1: 'stop_sign'}
+[INFO] Device: 0; distance mode: none
+[OK] cars_00014_00000_00002_png.rf.7e5351b19af7fd927ab35133d60262c8_144f98b412.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00000_00002_png.rf.7e5351b19af7fd927ab35133d60262c8_144f98b412.jpg
+[1/197]
+[OK] cars_00014_00001_00001_png.rf.d123474bf63fedfed1a6e420c850acb0_bd0f82bd6c.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00001_00001_png.rf.d123474bf63fedfed1a6e420c850acb0_bd0f82bd6c.jpg
+[2/197]
+[OK] cars_00014_00001_00011_png.rf.3484d601f5012f5329eece492b0e69fa_09a8b2595e.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00001_00011_png.rf.3484d601f5012f5329eece492b0e69fa_09a8b2595e.jpg
+[3/197]
+[OK] cars_00014_00001_00013_png.rf.c1d8a01e0ebaa48e215725548fcb407c_98b5908ad7.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00001_00013_png.rf.c1d8a01e0ebaa48e215725548fcb407c_98b5908ad7.jpg
+[4/197]
+[OK] cars_00014_00002_00008_png.rf.b5591234d317fc4e122c6594039268f9_864ae731e2.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00002_00008_png.rf.b5591234d317fc4e122c6594039268f9_864ae731e2.jpg
+[5/197]
+[OK] cars_00014_00002_00023_png.rf.4def4c07967a468c02df025dcc5104b6_4ed347d658.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00002_00023_png.rf.4def4c07967a468c02df025dcc5104b6_4ed347d658.jpg
+[6/197]
+[OK] cars_00014_00002_00029_png.rf.39fe8d27d845bd7b01172c8fe6e4f766_92b422e375.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00002_00029_png.rf.39fe8d27d845bd7b01172c8fe6e4f766_92b422e375.jpg
+[7/197]
+[OK] cars_00014_00003_00000_png.rf.253c0f653ff7ef31abf9352d73bc64dd_095f474d32.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00003_00000_png.rf.253c0f653ff7ef31abf9352d73bc64dd_095f474d32.jpg
+[8/197]
+[OK] cars_00014_00003_00002_png.rf.4fccdb75924e68eb29316a3981837e60_581bcfbde3.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00003_00002_png.rf.4fccdb75924e68eb29316a3981837e60_581bcfbde3.jpg
+[9/197]
+[OK] cars_00014_00003_00023_png.rf.9e2d757635316a70426effeaede7a50e_c1e7ff6bab.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00003_00023_png.rf.9e2d757635316a70426effeaede7a50e_c1e7ff6bab.jpg
+[10/197]
+[OK] cars_00014_00004_00016_png.rf.97d3529a5693c4808581f582f6d567ee_9a9079e2dd.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00004_00016_png.rf.97d3529a5693c4808581f582f6d567ee_9a9079e2dd.jpg
+[11/197]
+[OK] cars_00014_00005_00002_png.rf.16fcc3c1f3cca7edc558750ef71caeb1_5ef925cb41.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00005_00002_png.rf.16fcc3c1f3cca7edc558750ef71caeb1_5ef925cb41.jpg
+[12/197]
+[OK] cars_00014_00005_00009_png.rf.f827b18241a3d9cc50f45533525b1f19_37a59fb448.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00005_00009_png.rf.f827b18241a3d9cc50f45533525b1f19_37a59fb448.jpg
+[13/197]
+[OK] cars_00014_00005_00012_png.rf.a45144ebfa68993740f73f56d48f8a0d_f6e63ea0cf.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00005_00012_png.rf.a45144ebfa68993740f73f56d48f8a0d_f6e63ea0cf.jpg
+[14/197]
+[OK] cars_00014_00005_00013_png.rf.5a659e6a2d3f0b212260b79eaf601b03_d448c9f019.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00005_00013_png.rf.5a659e6a2d3f0b212260b79eaf601b03_d448c9f019.jpg
+[15/197]
+[OK] cars_00014_00006_00004_png.rf.4092d210be2207b685cb9241deac81ff_303de9ab02.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00006_00004_png.rf.4092d210be2207b685cb9241deac81ff_303de9ab02.jpg
+[16/197]
+[OK] cars_00014_00006_00009_png.rf.70513184bc20d792632f6f6da4b2c7d9_7c03c11dfa.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00006_00009_png.rf.70513184bc20d792632f6f6da4b2c7d9_7c03c11dfa.jpg
+[17/197]
+[OK] cars_00014_00007_00015_png.rf.821ef95c005fbfbbe0c74db69cd18063_208ccac014.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00007_00015_png.rf.821ef95c005fbfbbe0c74db69cd18063_208ccac014.jpg
+[18/197]
+[OK] cars_00014_00007_00021_png.rf.cce1ca295884f9a783b351ee71da557e_c676868ce1.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00007_00021_png.rf.cce1ca295884f9a783b351ee71da557e_c676868ce1.jpg
+[19/197]
+[OK] cars_00014_00008_00010_png.rf.eaf26fb45c806ade178b403b585eeb40_3614fc2493.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00008_00010_png.rf.eaf26fb45c806ade178b403b585eeb40_3614fc2493.jpg
+[20/197]
+[OK] cars_00014_00008_00016_png.rf.68e83b75cd892012845c3ee4ea0d7a43_401e48c6b5.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00008_00016_png.rf.68e83b75cd892012845c3ee4ea0d7a43_401e48c6b5.jpg
+[21/197]
+[OK] cars_00014_00010_00001_png.rf.68c586d3ac58ed9ad2b5b51c2702b4cf_59fca2d1d3.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00010_00001_png.rf.68c586d3ac58ed9ad2b5b51c2702b4cf_59fca2d1d3.jpg
+[22/197]
+[OK] cars_00014_00010_00008_png.rf.a0d4d065ad6378c65bec276c3e074e64_ca858d816a.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00010_00008_png.rf.a0d4d065ad6378c65bec276c3e074e64_ca858d816a.jpg
+[23/197]
+[OK] cars_00014_00013_00006_png.rf.c39448e99355e1fc1ebd5d0f6eebc03a_c79db9398d.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00013_00006_png.rf.c39448e99355e1fc1ebd5d0f6eebc03a_c79db9398d.jpg
+[24/197]
+[OK] cars_00014_00013_00007_png.rf.d6d53f7f5f8d66a0f726fda36931a444_bde4fc1feb.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00013_00007_png.rf.d6d53f7f5f8d66a0f726fda36931a444_bde4fc1feb.jpg
+[25/197]
+[OK] cars_00014_00021_00027_png.rf.3f9484fbc656764f730282bdfbf8fed1_571309020d.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00021_00027_png.rf.3f9484fbc656764f730282bdfbf8fed1_571309020d.jpg
+[26/197]
+[OK] cars_00014_00021_00029_png.rf.fa62695eed4371cee668450761f65b1d_ebfec4ab4a.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00021_00029_png.rf.fa62695eed4371cee668450761f65b1d_ebfec4ab4a.jpg
+[27/197]
+[OK] cars_00014_00022_00002_png.rf.067f3be88afec79842f718b26732c307_8218bf130c.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00022_00002_png.rf.067f3be88afec79842f718b26732c307_8218bf130c.jpg
+[28/197]
+[OK] cars_00014_00023_00018_png.rf.7f4df748842e9a2b90d343c5612ff812_df5877d4db.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00023_00018_png.rf.7f4df748842e9a2b90d343c5612ff812_df5877d4db.jpg
+[29/197]
+[OK] cars_00014_00023_00021_png.rf.0a4585c02901034383d98335603ed09d_04962705fe.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00023_00021_png.rf.0a4585c02901034383d98335603ed09d_04962705fe.jpg
+[30/197]
+[OK] cars_00014_00025_00016_png.rf.1fe4fb6ff3010ba8d3a8e2d070495c89_875cf46b3d.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00025_00016_png.rf.1fe4fb6ff3010ba8d3a8e2d070495c89_875cf46b3d.jpg
+[31/197]
+[OK] cars_00014_00025_00024_png.rf.68b06437c568098e7eba1b1ce996e0d9_c85706629e.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_00014_00025_00024_png.rf.68b06437c568098e7eba1b1ce996e0d9_c85706629e.jpg
+[32/197]
+[OK] cars_FisheyeCamera_1_00009_png.rf.b0975a2a6e8dd384d412a61bb39be816_8452032d53.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_FisheyeCamera_1_00009_png.rf.b0975a2a6e8dd384d412a61bb39be816_8452032d53.jpg
+[33/197]
+[OK] cars_road270_png.rf.f2fdeb005bc64af59918beeae3c5c5fb_26bb2b772f.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road270_png.rf.f2fdeb005bc64af59918beeae3c5c5fb_26bb2b772f.jpg
+[34/197]
+[OK] cars_road272_png.rf.76f6f8e7630ea72a2f0a4ec1ab3d62b8_458090a3a6.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road272_png.rf.76f6f8e7630ea72a2f0a4ec1ab3d62b8_458090a3a6.jpg
+[35/197]
+[OK] cars_road62_png.rf.b3288434b3cf3e2b6d2f057c1f5a0502_2ebfc841e4.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road62_png.rf.b3288434b3cf3e2b6d2f057c1f5a0502_2ebfc841e4.jpg
+[36/197]
+[OK] cars_road633_png.rf.282d128c502ba602126742a5064cd054_7063b3dc02.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road633_png.rf.282d128c502ba602126742a5064cd054_7063b3dc02.jpg
+[37/197]
+[OK] cars_road70_png.rf.d2ea834dc600c103a18b073faf955857_70f757a941.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road70_png.rf.d2ea834dc600c103a18b073faf955857_70f757a941.jpg
+[38/197]
+[OK] cars_road79_png.rf.45c47a11851b6f864bfc4d1a5df7db98_a7b6ab8bb5.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road79_png.rf.45c47a11851b6f864bfc4d1a5df7db98_a7b6ab8bb5.jpg
+[39/197]
+[OK] cars_road826_png.rf.499e6d5c8b79f7e991153911880c6c3c_cd9921a66d.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road826_png.rf.499e6d5c8b79f7e991153911880c6c3c_cd9921a66d.jpg
+[40/197]
+[OK] cars_road92_png.rf.87483d8aca15f9b35a039b5601ada7b2_a1129fd418.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road92_png.rf.87483d8aca15f9b35a039b5601ada7b2_a1129fd418.jpg
+[41/197]
+[OK] cars_road96_png.rf.48d681480f439cba3688ab06e5e51fe7_2c2787bd68.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cars_road96_png.rf.48d681480f439cba3688ab06e5e51fe7_2c2787bd68.jpg
+[42/197]
+[OK] cones_0194859638d645b88b528bd6f3bd0e6f_jpg.rf.02449a378e5a04cf718a445df8cce123_e6009ae081.jpg: 3 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_0194859638d645b88b528bd6f3bd0e6f_jpg.rf.02449a378e5a04cf718a445df8cce123_e6009ae081.jpg
+[43/197]
+[OK] cones_0194859638d645b88b528bd6f3bd0e6f_jpg.rf.0ca22a204190b7b4dcab9c9f9b2d36df_4ec7ce4649.jpg: 3 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_0194859638d645b88b528bd6f3bd0e6f_jpg.rf.0ca22a204190b7b4dcab9c9f9b2d36df_4ec7ce4649.jpg
+[44/197]
+[OK] cones_02221187184440deb401784adbfec56f_jpg.rf.fda6efd414df47feaadd8af1c454ddee_c3a054ba9a.jpg: 7 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_02221187184440deb401784adbfec56f_jpg.rf.fda6efd414df47feaadd8af1c454ddee_c3a054ba9a.jpg
+[45/197]
+[OK] cones_035095b46dd44a9fb2255702d9ae9301_jpg.rf.5e91ba799b76aeb8df445af50add2e66_7ba892b4a8.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_035095b46dd44a9fb2255702d9ae9301_jpg.rf.5e91ba799b76aeb8df445af50add2e66_7ba892b4a8.jpg
+[46/197]
+[OK] cones_036dcd03761b4cf7996018d96e6a6f67_jpg.rf.27bd6c5e466e05a0a27cb20e0bad7d99_f4260bcfd8.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_036dcd03761b4cf7996018d96e6a6f67_jpg.rf.27bd6c5e466e05a0a27cb20e0bad7d99_f4260bcfd8.jpg
+[47/197]
+[OK] cones_0641749641274850bdbe5bf485e00905_jpg.rf.b99cbb2c7e88f07ef6af989c673f5296_40b02bcdf3.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_0641749641274850bdbe5bf485e00905_jpg.rf.b99cbb2c7e88f07ef6af989c673f5296_40b02bcdf3.jpg
+[48/197]
+[OK] cones_0ad52ca85f7249109cd049ede313cfde_jpg.rf.6078d1728bf8706b059fa870988e72ca_a031cb2e46.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_0ad52ca85f7249109cd049ede313cfde_jpg.rf.6078d1728bf8706b059fa870988e72ca_a031cb2e46.jpg
+[49/197]
+[OK] cones_0cd33c3f45b641499e2eea014a849044_jpg.rf.ab48b10226dee4eebf5e3947eab803d1_f95e263bf1.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_0cd33c3f45b641499e2eea014a849044_jpg.rf.ab48b10226dee4eebf5e3947eab803d1_f95e263bf1.jpg
+[50/197]
+[OK] cones_0f5e9a66847f489cb15fc1160010e97e_jpg.rf.2a58562449739ca3f8f8c6f96eeab4ea_e8c9523c25.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_0f5e9a66847f489cb15fc1160010e97e_jpg.rf.2a58562449739ca3f8f8c6f96eeab4ea_e8c9523c25.jpg
+[51/197]
+[OK] cones_0f924cf8efed46cf892702ed8ce5252c_jpg.rf.51595e9e5c92ae76e3a13923b8a84c4e_08a3181eb1.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_0f924cf8efed46cf892702ed8ce5252c_jpg.rf.51595e9e5c92ae76e3a13923b8a84c4e_08a3181eb1.jpg
+[52/197]
+[OK] cones_111767f388c84f558e763f89c5e1844d_jpg.rf.51aca2db25b5dff128db3cd1e7d5ced1_7539e8b963.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_111767f388c84f558e763f89c5e1844d_jpg.rf.51aca2db25b5dff128db3cd1e7d5ced1_7539e8b963.jpg
+[53/197]
+[OK] cones_119_jpg.rf.39d49f38311ec256b49725a1a3072772_8d53922b1c.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_119_jpg.rf.39d49f38311ec256b49725a1a3072772_8d53922b1c.jpg
+[54/197]
+[OK] cones_11_jpg.rf.42fb8576c8b46c6e67b0552e4bd6bc2c_e4c389c645.jpg: 23 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_11_jpg.rf.42fb8576c8b46c6e67b0552e4bd6bc2c_e4c389c645.jpg
+[55/197]
+[OK] cones_11d7aee14a6c43f09246550fa355da04_jpg.rf.d1684c957156e33ab46f2ea463e832ad_64dc3acc7d.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_11d7aee14a6c43f09246550fa355da04_jpg.rf.d1684c957156e33ab46f2ea463e832ad_64dc3acc7d.jpg
+[56/197]
+[OK] cones_126c2f6d9cf243a088e66bdeb70cf0e5_jpg.rf.ec6d45aa200bb8a9ead9c6ae4c48511c_86adfc6eb8.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_126c2f6d9cf243a088e66bdeb70cf0e5_jpg.rf.ec6d45aa200bb8a9ead9c6ae4c48511c_86adfc6eb8.jpg
+[57/197]
+[OK] cones_129_jpg.rf.c12cbea7b72ddb91230b7185569ef572_e4c278268d.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_129_jpg.rf.c12cbea7b72ddb91230b7185569ef572_e4c278268d.jpg
+[58/197]
+[OK] cones_135_jpg.rf.a3f6c9a5dbb7910063e436ed1eb641f2_ad6263eb09.jpg: 3 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_135_jpg.rf.a3f6c9a5dbb7910063e436ed1eb641f2_ad6263eb09.jpg
+[59/197]
+[OK] cones_135_jpg.rf.dafb694e93895a1ce88133075b8f4ea2_8de5c622a4.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_135_jpg.rf.dafb694e93895a1ce88133075b8f4ea2_8de5c622a4.jpg
+[60/197]
+[OK] cones_139_jpg.rf.7969b0e3b3b1f86b0245658b617a646f_98d3e99a42.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_139_jpg.rf.7969b0e3b3b1f86b0245658b617a646f_98d3e99a42.jpg
+[61/197]
+[OK] cones_140_jpg.rf.4dfe2fd468ad75be799429afb776dd64_6b74331a40.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_140_jpg.rf.4dfe2fd468ad75be799429afb776dd64_6b74331a40.jpg
+[62/197]
+[OK] cones_147_jpg.rf.48d1d8aec78058ee02eb44a07f4e0dfe_baa6e05047.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_147_jpg.rf.48d1d8aec78058ee02eb44a07f4e0dfe_baa6e05047.jpg
+[63/197]
+[OK] cones_152e3fc7caed4be58854c805b8e20fdf_jpg.rf.ac16376dbab04cf86842e5191d174516_77857565ae.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_152e3fc7caed4be58854c805b8e20fdf_jpg.rf.ac16376dbab04cf86842e5191d174516_77857565ae.jpg
+[64/197]
+[OK] cones_153_jpg.rf.5a56939118df8cf96662b05ae3b9404a_2f7e54abdb.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_153_jpg.rf.5a56939118df8cf96662b05ae3b9404a_2f7e54abdb.jpg
+[65/197]
+[OK] cones_167_jpg.rf.eba6d2a1afc5de07a1ee47c9a4f4b9b0_908b5064b4.jpg: 3 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_167_jpg.rf.eba6d2a1afc5de07a1ee47c9a4f4b9b0_908b5064b4.jpg
+[66/197]
+[OK] cones_16b9e6fe3daf4f71b0eb360f5cdd8393_jpg.rf.3fadeb880f7547fed6c4d74dc5ca7543_47e4edb51c.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_16b9e6fe3daf4f71b0eb360f5cdd8393_jpg.rf.3fadeb880f7547fed6c4d74dc5ca7543_47e4edb51c.jpg
+[67/197]
+[OK] cones_16b9e6fe3daf4f71b0eb360f5cdd8393_jpg.rf.b546f420b5f5928fd99dd37c3ef0f76a_c62371d290.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_16b9e6fe3daf4f71b0eb360f5cdd8393_jpg.rf.b546f420b5f5928fd99dd37c3ef0f76a_c62371d290.jpg
+[68/197]
+[OK] cones_171_jpg.rf.e22316776c899e1005315f0c41d3036f_7fff84dd36.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_171_jpg.rf.e22316776c899e1005315f0c41d3036f_7fff84dd36.jpg
+[69/197]
+[OK] cones_173_jpg.rf.c9160a1eba1b2d82e69bb2251359d269_2d60260666.jpg: 5 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_173_jpg.rf.c9160a1eba1b2d82e69bb2251359d269_2d60260666.jpg
+[70/197]
+[OK] cones_178_jpg.rf.aee363affc7949b775a851533bc19525_8ed2ab64de.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_178_jpg.rf.aee363affc7949b775a851533bc19525_8ed2ab64de.jpg
+[71/197]
+[OK] cones_179_jpg.rf.82a20a9a5ad24ab0949c32b336326b85_2fa7746c67.jpg: 11 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_179_jpg.rf.82a20a9a5ad24ab0949c32b336326b85_2fa7746c67.jpg
+[72/197]
+[OK] cones_1bc6d1481bbc4ded9ac52fa1fe3eb2ea_jpg.rf.3b7dce2ba0ad6b223fb3652b086961e0_1facbc8349.jpg: 3 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_1bc6d1481bbc4ded9ac52fa1fe3eb2ea_jpg.rf.3b7dce2ba0ad6b223fb3652b086961e0_1facbc8349.jpg
+[73/197]
+[OK] cones_1c2906d5b3b740039259060e8269a5df_jpg.rf.fbdc6059f9383d5e80a1decfb7c76dcc_0a9d4f4583.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_1c2906d5b3b740039259060e8269a5df_jpg.rf.fbdc6059f9383d5e80a1decfb7c76dcc_0a9d4f4583.jpg
+[74/197]
+[OK] cones_210_jpg.rf.2e3e27f8ba9905a16be9f123a129194d_5b2ca112ac.jpg: 3 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_210_jpg.rf.2e3e27f8ba9905a16be9f123a129194d_5b2ca112ac.jpg
+[75/197]
+[OK] cones_214_jpg.rf.5346ec3dbd5a8448c8b65d507a0f45c5_d6c3d1d918.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_214_jpg.rf.5346ec3dbd5a8448c8b65d507a0f45c5_d6c3d1d918.jpg
+[76/197]
+[OK] cones_218_jpg.rf.d3d5592002f735edf7c09efbe2e941b6_c0c8570d81.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_218_jpg.rf.d3d5592002f735edf7c09efbe2e941b6_c0c8570d81.jpg
+[77/197]
+[OK] cones_21abf15c670246798f321e0fead8219f_jpg.rf.ce0393a48af222cd3810a37e80b267f4_eb17a524f2.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_21abf15c670246798f321e0fead8219f_jpg.rf.ce0393a48af222cd3810a37e80b267f4_eb17a524f2.jpg
+[78/197]
+[OK] cones_220_jpg.rf.cc78a578ddd0ddff0ef8c92a3770d1f0_18f1c0a10b.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_220_jpg.rf.cc78a578ddd0ddff0ef8c92a3770d1f0_18f1c0a10b.jpg
+[79/197]
+[OK] cones_225_jpg.rf.f7f52843377a58fe792c0a0dd21aa0ac_f8f8d650cd.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_225_jpg.rf.f7f52843377a58fe792c0a0dd21aa0ac_f8f8d650cd.jpg
+[80/197]
+[OK] cones_22d2b03cfad6480482102bdf9540183b_jpg.rf.e149ccd8c9db23a43a6bbe0d5b3e97d3_dfe84151ae.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_22d2b03cfad6480482102bdf9540183b_jpg.rf.e149ccd8c9db23a43a6bbe0d5b3e97d3_dfe84151ae.jpg
+[81/197]
+[OK] cones_232_jpg.rf.ae45269403712b8546eb28c4119db070_4f0e814d48.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_232_jpg.rf.ae45269403712b8546eb28c4119db070_4f0e814d48.jpg
+[82/197]
+[OK] cones_233_jpg.rf.d7cf8168505c219df26ac826f7d505b7_134293faf8.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_233_jpg.rf.d7cf8168505c219df26ac826f7d505b7_134293faf8.jpg
+[83/197]
+[OK] cones_239_jpg.rf.99cff9566d472a33793a8d48ed8a222a_c37272f51e.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_239_jpg.rf.99cff9566d472a33793a8d48ed8a222a_c37272f51e.jpg
+[84/197]
+[OK] cones_239_jpg.rf.dc000255d367f71f789c8ea5be646f5f_1dbd94c153.jpg: 3 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_239_jpg.rf.dc000255d367f71f789c8ea5be646f5f_1dbd94c153.jpg
+[85/197]
+[OK] cones_242_jpg.rf.01045ca2e803ab7ab7da40a6c681bcca_e31dbb7749.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_242_jpg.rf.01045ca2e803ab7ab7da40a6c681bcca_e31dbb7749.jpg
+[86/197]
+[OK] cones_2972e11eba3243fda3561fb3e73ef85b_jpg.rf.7ad2023e27b80f12ee7ae372f9266e23_fcc176e3d5.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_2972e11eba3243fda3561fb3e73ef85b_jpg.rf.7ad2023e27b80f12ee7ae372f9266e23_fcc176e3d5.jpg
+[87/197]
+[OK] cones_2972e11eba3243fda3561fb3e73ef85b_jpg.rf.82a0d353833079ec6ecf791f8173b1bc_2e8d3672db.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_2972e11eba3243fda3561fb3e73ef85b_jpg.rf.82a0d353833079ec6ecf791f8173b1bc_2e8d3672db.jpg
+[88/197]
+[OK] cones_2_jpg.rf.653b0d68e94c6907ba338aa5e3cec19b_30204bbc81.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_2_jpg.rf.653b0d68e94c6907ba338aa5e3cec19b_30204bbc81.jpg
+[89/197]
+[OK] cones_2e44393212ed4fdcb932e560c86a15dc_jpg.rf.cec608fa57a9c200182b9d7a54bb757c_91f91d3fec.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_2e44393212ed4fdcb932e560c86a15dc_jpg.rf.cec608fa57a9c200182b9d7a54bb757c_91f91d3fec.jpg
+[90/197]
+[OK] cones_30f7446656f64a86960a1dcc806b1857_jpg.rf.a9b8402263d88a4f648234ddd29f0490_47a53f3c3f.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_30f7446656f64a86960a1dcc806b1857_jpg.rf.a9b8402263d88a4f648234ddd29f0490_47a53f3c3f.jpg
+[91/197]
+[OK] cones_3187241f374d46a8bb0418e6f53ffa72_jpg.rf.fa5e708225d46a4f80d0cc08523d93ed_ff7fb1af8a.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_3187241f374d46a8bb0418e6f53ffa72_jpg.rf.fa5e708225d46a4f80d0cc08523d93ed_ff7fb1af8a.jpg
+[92/197]
+[OK] cones_31e2ee570ddd40509951eed8d6b37c2d_jpg.rf.766f71c1e6f773743800bbebb350b156_6213c18827.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_31e2ee570ddd40509951eed8d6b37c2d_jpg.rf.766f71c1e6f773743800bbebb350b156_6213c18827.jpg
+[93/197]
+[OK] cones_3428a10f614846d88e39bab3aa3fbaf1_jpg.rf.75e0b57b8d39406c9d2c48f4aefc24be_a533d54965.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_3428a10f614846d88e39bab3aa3fbaf1_jpg.rf.75e0b57b8d39406c9d2c48f4aefc24be_a533d54965.jpg
+[94/197]
+[OK] cones_34ed174ff9ad4005ad4ffa3ea2a9cb53_jpg.rf.d304e9eefc229f76ff778f328e676a5c_1d2b799d55.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_34ed174ff9ad4005ad4ffa3ea2a9cb53_jpg.rf.d304e9eefc229f76ff778f328e676a5c_1d2b799d55.jpg
+[95/197]
+[OK] cones_353b4d0cda2048da8a1b48b523e7ce38_jpg.rf.703e941c520602d71cefcbe0f2792570_ffb1f886cc.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_353b4d0cda2048da8a1b48b523e7ce38_jpg.rf.703e941c520602d71cefcbe0f2792570_ffb1f886cc.jpg
+[96/197]
+[OK] cones_37_jpg.rf.cb0672b417dd5900cf609bd0467ecd90_d2b34cad42.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_37_jpg.rf.cb0672b417dd5900cf609bd0467ecd90_d2b34cad42.jpg
+[97/197]
+[OK] cones_3b6c660c67164d54b6548d8160c30854_jpg.rf.4791a0b1146ed57dacf7c74d6d469398_b1e02b4261.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_3b6c660c67164d54b6548d8160c30854_jpg.rf.4791a0b1146ed57dacf7c74d6d469398_b1e02b4261.jpg
+[98/197]
+[OK] cones_3bbeaa49dafc4f88a9cc14e06854fad3_jpg.rf.5088f4c3db3f482d26326dd4bf92f964_d14b17b0c6.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_3bbeaa49dafc4f88a9cc14e06854fad3_jpg.rf.5088f4c3db3f482d26326dd4bf92f964_d14b17b0c6.jpg
+[99/197]
+[OK] cones_3c197b5c44ce410687b6b305c05948b1_jpg.rf.244da904fcbbbc8ae0bd0fa17baf966d_be120ebe32.jpg: 8 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_3c197b5c44ce410687b6b305c05948b1_jpg.rf.244da904fcbbbc8ae0bd0fa17baf966d_be120ebe32.jpg
+[100/197]
+[OK] cones_41300baaabde4e94ac3bb3fd241cc86a_jpg.rf.b0c54f5655ee85e64abebc60b0321c03_09c68c6a18.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_41300baaabde4e94ac3bb3fd241cc86a_jpg.rf.b0c54f5655ee85e64abebc60b0321c03_09c68c6a18.jpg
+[101/197]
+[OK] cones_43a788f4d8e44a468b32fdc0ac12ff6f_jpg.rf.e5ebb846b2a05707b4460bc1a421a124_f5b573e15c.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_43a788f4d8e44a468b32fdc0ac12ff6f_jpg.rf.e5ebb846b2a05707b4460bc1a421a124_f5b573e15c.jpg
+[102/197]
+[OK] cones_452783d574914e55bc7bc8bd4468b2a0_jpg.rf.1b475424505124c1ad18b3f112268576_db33308946.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_452783d574914e55bc7bc8bd4468b2a0_jpg.rf.1b475424505124c1ad18b3f112268576_db33308946.jpg
+[103/197]
+[OK] cones_457d47a8c58248ebbdaa1dfaafd6c35e_jpg.rf.5dab2cbb14b060190b1791639876fc57_ec804a43cd.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_457d47a8c58248ebbdaa1dfaafd6c35e_jpg.rf.5dab2cbb14b060190b1791639876fc57_ec804a43cd.jpg
+[104/197]
+[OK] cones_460aa735718f4629881d8f423ffc95d9_jpg.rf.ed4b9cb0d506ed273264de31160e7ca0_a26e7950c9.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_460aa735718f4629881d8f423ffc95d9_jpg.rf.ed4b9cb0d506ed273264de31160e7ca0_a26e7950c9.jpg
+[105/197]
+[OK] cones_470e34bf531844aaab301c03b7081b86_jpg.rf.f256d3b8228e0c2ef15270bf5fa6d435_2a4badae6f.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_470e34bf531844aaab301c03b7081b86_jpg.rf.f256d3b8228e0c2ef15270bf5fa6d435_2a4badae6f.jpg
+[106/197]
+[OK] cones_4b66587ae3b2470aaef6ec2ce40dc607_jpg.rf.b94c29f8972a43a73741f0718125d51e_ceb9245168.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_4b66587ae3b2470aaef6ec2ce40dc607_jpg.rf.b94c29f8972a43a73741f0718125d51e_ceb9245168.jpg
+[107/197]
+[OK] cones_4c204ffd3acb456f8d8b6b153341f6fe_jpg.rf.5d52649728f297cdb63defc6b952488c_f8892be0c0.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_4c204ffd3acb456f8d8b6b153341f6fe_jpg.rf.5d52649728f297cdb63defc6b952488c_f8892be0c0.jpg
+[108/197]
+[OK] cones_4e2804283367445a8ebb2a6ae02218fe_jpg.rf.b30408f3221dad57cde64a8d47f2d0cb_922ea6f699.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_4e2804283367445a8ebb2a6ae02218fe_jpg.rf.b30408f3221dad57cde64a8d47f2d0cb_922ea6f699.jpg
+[109/197]
+[OK] cones_4edf67b522e8447e81e55407843c045a_jpg.rf.c1b490fd16a9606c37b5b7395ed2be32_ce0a052167.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_4edf67b522e8447e81e55407843c045a_jpg.rf.c1b490fd16a9606c37b5b7395ed2be32_ce0a052167.jpg
+[110/197]
+[OK] cones_506_jpg.rf.d469aa66c65bcbfb3d07cfd4e6cb6ced_3114fef91a.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_506_jpg.rf.d469aa66c65bcbfb3d07cfd4e6cb6ced_3114fef91a.jpg
+[111/197]
+[OK] cones_523873a5b0d04033be9de82c7a8c2904_jpg.rf.3ba68593a7c0e4f5b0f863852adb8cc6_70086bfc1e.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_523873a5b0d04033be9de82c7a8c2904_jpg.rf.3ba68593a7c0e4f5b0f863852adb8cc6_70086bfc1e.jpg
+[112/197]
+[OK] cones_54_jpg.rf.127256d8769ed75aba4b5a18f18cdd17_c4aafff68d.jpg: 5 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_54_jpg.rf.127256d8769ed75aba4b5a18f18cdd17_c4aafff68d.jpg
+[113/197]
+[OK] cones_585df8f990854ac5852f7c3cd154beb3_jpg.rf.2c1a370cdedd41c98dec09f3903bba82_5df0176479.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_585df8f990854ac5852f7c3cd154beb3_jpg.rf.2c1a370cdedd41c98dec09f3903bba82_5df0176479.jpg
+[114/197]
+[OK] cones_59fd28b0b10d4915a020b0508c4ec46b_jpg.rf.e06f03616813d32358183cb2e161bad1_e56c4dddcf.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_59fd28b0b10d4915a020b0508c4ec46b_jpg.rf.e06f03616813d32358183cb2e161bad1_e56c4dddcf.jpg
+[115/197]
+[OK] cones_60887c5cf7404e8d9c83021fca330331_jpg.rf.f39de42c2b1a8fcb72d361c69d70e888_b539fd9aa0.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_60887c5cf7404e8d9c83021fca330331_jpg.rf.f39de42c2b1a8fcb72d361c69d70e888_b539fd9aa0.jpg
+[116/197]
+[OK] cones_60b00cc5927f4e7fb3d1cf6af46e7923_jpg.rf.1e8097542bb4e256df8a4fa23ce843a3_84486f94fa.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_60b00cc5927f4e7fb3d1cf6af46e7923_jpg.rf.1e8097542bb4e256df8a4fa23ce843a3_84486f94fa.jpg
+[117/197]
+[OK] cones_66d979e5e0eb4f5091ba090bf703840c_jpg.rf.00779dad49df5e70d64a006931441bc9_de4bb61711.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_66d979e5e0eb4f5091ba090bf703840c_jpg.rf.00779dad49df5e70d64a006931441bc9_de4bb61711.jpg
+[118/197]
+[OK] cones_6887edd75ad647699e327ed3941489c1_jpg.rf.c620732f87571b5a9ad6220f9fbed966_b38881b192.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_6887edd75ad647699e327ed3941489c1_jpg.rf.c620732f87571b5a9ad6220f9fbed966_b38881b192.jpg
+[119/197]
+[OK] cones_695acf95f4e347bc818cf5b5d79df215_jpg.rf.8c701e2611a624926de3ff10e16a49e8_793b42b32e.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_695acf95f4e347bc818cf5b5d79df215_jpg.rf.8c701e2611a624926de3ff10e16a49e8_793b42b32e.jpg
+[120/197]
+[OK] cones_6d38109ea1c346d49b40a5ffa93f2160_jpg.rf.b3359103d1be47045970a0be76cd85d8_3554139444.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_6d38109ea1c346d49b40a5ffa93f2160_jpg.rf.b3359103d1be47045970a0be76cd85d8_3554139444.jpg
+[121/197]
+[OK] cones_7032bf1853db4ce5835196e9b9754c36_jpg.rf.fbf6adc5c6170dde3486b427748cb00e_f1cc7c01fe.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_7032bf1853db4ce5835196e9b9754c36_jpg.rf.fbf6adc5c6170dde3486b427748cb00e_f1cc7c01fe.jpg
+[122/197]
+[OK] cones_74_jpg.rf.73ff76ae87c8fa1231cfd9ddb9d1b626_65948936fd.jpg: 14 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_74_jpg.rf.73ff76ae87c8fa1231cfd9ddb9d1b626_65948936fd.jpg
+[123/197]
+[OK] cones_7580d627d6724a2ba6092f41f0c3bd94_jpg.rf.a7aa37c27695a374030eb851f9119260_7e2574e703.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_7580d627d6724a2ba6092f41f0c3bd94_jpg.rf.a7aa37c27695a374030eb851f9119260_7e2574e703.jpg
+[124/197]
+[OK] cones_7_jpg.rf.4e5510a0d88017040649cf5a0dc4f73b_49f996d8fc.jpg: 3 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_7_jpg.rf.4e5510a0d88017040649cf5a0dc4f73b_49f996d8fc.jpg
+[125/197]
+[OK] cones_83b27bb9d4a242faae16e2f5c55eddcd_jpg.rf.0b76f67ae56f1475f22a6b81a254d5ad_c76e7fd62d.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_83b27bb9d4a242faae16e2f5c55eddcd_jpg.rf.0b76f67ae56f1475f22a6b81a254d5ad_c76e7fd62d.jpg
+[126/197]
+[OK] cones_876d1d559d7442549557c37194f2dbab_jpg.rf.a4e5d6746a381aae686aebacef91b741_b7011f3079.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_876d1d559d7442549557c37194f2dbab_jpg.rf.a4e5d6746a381aae686aebacef91b741_b7011f3079.jpg
+[127/197]
+[OK] cones_88_jpg.rf.3a37932254e5a56c70c84baaec36da79_52d086259e.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_88_jpg.rf.3a37932254e5a56c70c84baaec36da79_52d086259e.jpg
+[128/197]
+[OK] cones_89a8e3ee969242d2a71be504d458a7b9_jpg.rf.30740540b882d67a0d8cc4c0ed36af71_0b3e572191.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_89a8e3ee969242d2a71be504d458a7b9_jpg.rf.30740540b882d67a0d8cc4c0ed36af71_0b3e572191.jpg
+[129/197]
+[OK] cones_8df5cafc6afe4cf6a3d85e2760e4f7e4_jpg.rf.0f5cc9ef7d4b541974020200de173c17_a9fd19cad2.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_8df5cafc6afe4cf6a3d85e2760e4f7e4_jpg.rf.0f5cc9ef7d4b541974020200de173c17_a9fd19cad2.jpg
+[130/197]
+[OK] cones_8df5cafc6afe4cf6a3d85e2760e4f7e4_jpg.rf.9e99b86aec5d381e9fff1ed5732c7d16_49886f5044.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_8df5cafc6afe4cf6a3d85e2760e4f7e4_jpg.rf.9e99b86aec5d381e9fff1ed5732c7d16_49886f5044.jpg
+[131/197]
+[OK] cones_8e8cee85b5644ea4b17f3211362e7106_jpg.rf.1bb491f63a44d29efc869ef2920aeec2_eef49b7ebb.jpg: 9 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_8e8cee85b5644ea4b17f3211362e7106_jpg.rf.1bb491f63a44d29efc869ef2920aeec2_eef49b7ebb.jpg
+[132/197]
+[OK] cones_8fa87d90c9454ff7a8322bfb131a28a5_jpg.rf.aec7b246921e9d2fb6e4e6e900963aa3_feae9d79e3.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_8fa87d90c9454ff7a8322bfb131a28a5_jpg.rf.aec7b246921e9d2fb6e4e6e900963aa3_feae9d79e3.jpg
+[133/197]
+[OK] cones_8fa87d90c9454ff7a8322bfb131a28a5_jpg.rf.c85d80ecdcdb7443da4f77fb4c0e8ff7_dce46b4718.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_8fa87d90c9454ff7a8322bfb131a28a5_jpg.rf.c85d80ecdcdb7443da4f77fb4c0e8ff7_dce46b4718.jpg
+[134/197]
+[OK] cones_904339ec14f7422f85c495be2efed777_jpg.rf.80e19b09bd0e5aa1a0f6ec084012d9a1_dc98a0ff5d.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_904339ec14f7422f85c495be2efed777_jpg.rf.80e19b09bd0e5aa1a0f6ec084012d9a1_dc98a0ff5d.jpg
+[135/197]
+[OK] cones_9534c2f2047d439cbcabeb975ed745a5_jpg.rf.cfa63d2295c1928cfb71ce29298a18db_e24698797a.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_9534c2f2047d439cbcabeb975ed745a5_jpg.rf.cfa63d2295c1928cfb71ce29298a18db_e24698797a.jpg
+[136/197]
+[OK] cones_96d37a85174a406baef83105f6c8673c_jpg.rf.a5863a2a9d5b55cc190c459885466bb2_91e28d9d57.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_96d37a85174a406baef83105f6c8673c_jpg.rf.a5863a2a9d5b55cc190c459885466bb2_91e28d9d57.jpg
+[137/197]
+[OK] cones_9a3dfe0fd3fb47969c6866da25e8f7bd_jpg.rf.65c7ff14352cb0405375dbc0f77a3808_a23e616c43.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_9a3dfe0fd3fb47969c6866da25e8f7bd_jpg.rf.65c7ff14352cb0405375dbc0f77a3808_a23e616c43.jpg
+[138/197]
+[OK] cones_9a3dfe0fd3fb47969c6866da25e8f7bd_jpg.rf.78c0a6c912eecbb9965c21125ceadc8c_81636d46ed.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_9a3dfe0fd3fb47969c6866da25e8f7bd_jpg.rf.78c0a6c912eecbb9965c21125ceadc8c_81636d46ed.jpg
+[139/197]
+[OK] cones_9be2234f00f9489cbd78be40999d4d0f_jpg.rf.2496f47573a76f4db2f0f7c66acd7cab_2ad17f4684.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_9be2234f00f9489cbd78be40999d4d0f_jpg.rf.2496f47573a76f4db2f0f7c66acd7cab_2ad17f4684.jpg
+[140/197]
+[OK] cones_9c1687f6c34241f499875feb784695a2_jpg.rf.128464cba2254cc2e673f8c15b723dcc_7e748c379e.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_9c1687f6c34241f499875feb784695a2_jpg.rf.128464cba2254cc2e673f8c15b723dcc_7e748c379e.jpg
+[141/197]
+[OK] cones_IMG_20220718_161131508_jpg.rf.39216029c66a82f79d1c6ee2224a1a0c_566d6ff34e.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_IMG_20220718_161131508_jpg.rf.39216029c66a82f79d1c6ee2224a1a0c_566d6ff34e.jpg
+[142/197]
+[OK] cones_IMG_20220718_161254479_jpg.rf.9da352171f6deefee5166cab5d1a8a61_43934d5237.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_IMG_20220718_161254479_jpg.rf.9da352171f6deefee5166cab5d1a8a61_43934d5237.jpg
+[143/197]
+[OK] cones_IMG_20220718_161327029_jpg.rf.e39121af150c267c1a85375d9cbaab26_72105dcd63.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_IMG_20220718_161327029_jpg.rf.e39121af150c267c1a85375d9cbaab26_72105dcd63.jpg
+[144/197]
+[OK] cones_IMG_20220718_161433754_HDR_jpg.rf.83e1b84c79f919df129d5af8435080cc_324a24661a.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_IMG_20220718_161433754_HDR_jpg.rf.83e1b84c79f919df129d5af8435080cc_324a24661a.jpg
+[145/197]
+[OK] cones_IMG_20220718_161453587_HDR_jpg.rf.1e0be85bf085027830b4d495ecb88103_0e2b844f0e.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_IMG_20220718_161453587_HDR_jpg.rf.1e0be85bf085027830b4d495ecb88103_0e2b844f0e.jpg
+[146/197]
+[OK] cones_IMG_20220727_151105443_jpg.rf.a588e4af44ee1d46baca1a3c04ab16c6_204ed2ac5c.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_IMG_20220727_151105443_jpg.rf.a588e4af44ee1d46baca1a3c04ab16c6_204ed2ac5c.jpg
+[147/197]
+[OK] cones_IMG_20220727_151317822_jpg.rf.02244ed7a8f918025b3b40cb78e93c8a_9bd0ae242e.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_IMG_20220727_151317822_jpg.rf.02244ed7a8f918025b3b40cb78e93c8a_9bd0ae242e.jpg
+[148/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-49-20-2-_jpeg.rf.8ab7b32787a52f36eda678a3c06b4bb4_417b310ab1.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-49-20-2-_jpeg.rf.8ab7b32787a52f36eda678a3c06b4bb4_417b310ab1.jpg
+[149/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-50-20-2-_jpeg.rf.1b87f70cc94390695ee74ebe387557c4_500ba16ca4.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-50-20-2-_jpeg.rf.1b87f70cc94390695ee74ebe387557c4_500ba16ca4.jpg
+[150/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-50-20-6-_jpeg.rf.3d9e8436661cf7706c99a8ea9abebbea_f826de032e.jpg: 5 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-50-20-6-_jpeg.rf.3d9e8436661cf7706c99a8ea9abebbea_f826de032e.jpg
+[151/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-50_jpeg.rf.c04bc8c398ea7ac78c1a7355e27413b4_c67a7704fb.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-50_jpeg.rf.c04bc8c398ea7ac78c1a7355e27413b4_c67a7704fb.jpg
+[152/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-51-20-4-_jpeg.rf.b105db94883f15add15716e898830573_f5d628b4dd.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-51-20-4-_jpeg.rf.b105db94883f15add15716e898830573_f5d628b4dd.jpg
+[153/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-52-20-1-_jpeg.rf.30818eea1e8095ab89c5046c34b018e6_0f96c23f96.jpg: 8 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-52-20-1-_jpeg.rf.30818eea1e8095ab89c5046c34b018e6_0f96c23f96.jpg
+[154/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-53-20-2-_jpeg.rf.0b62ce1c78e9105f64e96f1512ac630c_d5489ab44a.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-53-20-2-_jpeg.rf.0b62ce1c78e9105f64e96f1512ac630c_d5489ab44a.jpg
+[155/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-54_jpeg.rf.7b49669b0aa6a933ee10f3d3b715b47a_cc1d863711.jpg: 6 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-54_jpeg.rf.7b49669b0aa6a933ee10f3d3b715b47a_cc1d863711.jpg
+[156/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-54_jpeg.rf.9ad391684847e659790195b382dd6146_b7440edea8.jpg: 6 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-54_jpeg.rf.9ad391684847e659790195b382dd6146_b7440edea8.jpg
+[157/197]
+[OK] cones_WhatsApp-20Image-202022-07-20-20at-2014-58-54_jpeg.rf.c32a1bad3cc29cf9e5f85bf3fee0fbe7_f7adb1055e.jpg: 6 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_WhatsApp-20Image-202022-07-20-20at-2014-58-54_jpeg.rf.c32a1bad3cc29cf9e5f85bf3fee0fbe7_f7adb1055e.jpg
+[158/197]
+[OK] cones_a22b464e8b054ed0ac0cd7baa279b234_jpg.rf.3854315cbb6abd5583c421576f4fdd5c_f27e1e27a0.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_a22b464e8b054ed0ac0cd7baa279b234_jpg.rf.3854315cbb6abd5583c421576f4fdd5c_f27e1e27a0.jpg
+[159/197]
+[OK] cones_a331c0fc2e8c4fcf86556e686c510e44_jpg.rf.284c3c5b2a7ee38b306c2977831b345a_e81afce64c.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_a331c0fc2e8c4fcf86556e686c510e44_jpg.rf.284c3c5b2a7ee38b306c2977831b345a_e81afce64c.jpg
+[160/197]
+[OK] cones_a331c0fc2e8c4fcf86556e686c510e44_jpg.rf.71e6a5b9293267f7c0f5ee64452e2353_7254721ce9.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_a331c0fc2e8c4fcf86556e686c510e44_jpg.rf.71e6a5b9293267f7c0f5ee64452e2353_7254721ce9.jpg
+[161/197]
+[OK] cones_a5612b2c13984524a705cca8a9423b3e_jpg.rf.ff9bf9f960f56425962fae179c2ae960_3a95989a53.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_a5612b2c13984524a705cca8a9423b3e_jpg.rf.ff9bf9f960f56425962fae179c2ae960_3a95989a53.jpg
+[162/197]
+[OK] cones_a7657ded932a465aab8149f7856b8114_jpg.rf.407ab32918dd72cccb3386588724d3a1_7ddea38b14.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_a7657ded932a465aab8149f7856b8114_jpg.rf.407ab32918dd72cccb3386588724d3a1_7ddea38b14.jpg
+[163/197]
+[OK] cones_ad8c766d872d43b9ad4f1bde98fbd76b_jpg.rf.bf0db746a56f3f472a335fb49ed802fb_2f90e8a08a.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_ad8c766d872d43b9ad4f1bde98fbd76b_jpg.rf.bf0db746a56f3f472a335fb49ed802fb_2f90e8a08a.jpg
+[164/197]
+[OK] cones_b41008754f37433bbac9e0202b7b578c_jpg.rf.bec15f9a27a63db3324fdd611a268875_901fbc6682.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_b41008754f37433bbac9e0202b7b578c_jpg.rf.bec15f9a27a63db3324fdd611a268875_901fbc6682.jpg
+[165/197]
+[OK] cones_b5620b622bd9489b8996037ec56a80b2_jpg.rf.2398fbde5eb82880512ddc934fbb8582_6fd08ba612.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_b5620b622bd9489b8996037ec56a80b2_jpg.rf.2398fbde5eb82880512ddc934fbb8582_6fd08ba612.jpg
+[166/197]
+[OK] cones_b9e76114f091422bbba69661e33f9ab4_jpg.rf.037ef0e37757861e424d7a32f2eb96c7_6c13a3c024.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_b9e76114f091422bbba69661e33f9ab4_jpg.rf.037ef0e37757861e424d7a32f2eb96c7_6c13a3c024.jpg
+[167/197]
+[OK] cones_be9fa2d310684bac82c051169a6fb79f_jpg.rf.8ce9b96efe835bd5a8406de008875edf_11ca260f8c.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_be9fa2d310684bac82c051169a6fb79f_jpg.rf.8ce9b96efe835bd5a8406de008875edf_11ca260f8c.jpg
+[168/197]
+[OK] cones_c8087f32c50243df8f696f8460d58aa5_jpg.rf.766114f0f46e8b4ce2c5c8f0727ba4a9_f29c3ea559.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_c8087f32c50243df8f696f8460d58aa5_jpg.rf.766114f0f46e8b4ce2c5c8f0727ba4a9_f29c3ea559.jpg
+[169/197]
+[OK] cones_c8087f32c50243df8f696f8460d58aa5_jpg.rf.be395ef6c774f24a5b3e6fd00f70e2f2_27e475ebdb.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_c8087f32c50243df8f696f8460d58aa5_jpg.rf.be395ef6c774f24a5b3e6fd00f70e2f2_27e475ebdb.jpg
+[170/197]
+[OK] cones_c9045153ab5d4e2db15b7b4fe9952917_jpg.rf.cceee8716ea350191f50053ddde475ae_4ad979aac2.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_c9045153ab5d4e2db15b7b4fe9952917_jpg.rf.cceee8716ea350191f50053ddde475ae_4ad979aac2.jpg
+[171/197]
+[OK] cones_ce1400e6af71476490164830d4766586_jpg.rf.370c63dcdb2c882f3261490509887e1f_21e8c61242.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_ce1400e6af71476490164830d4766586_jpg.rf.370c63dcdb2c882f3261490509887e1f_21e8c61242.jpg
+[172/197]
+[OK] cones_d0055a2696bc4b54852a5968aa0e7588_jpg.rf.1782d00e6dc1d8dceeb092fcf18f4978_16e5ba08fb.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_d0055a2696bc4b54852a5968aa0e7588_jpg.rf.1782d00e6dc1d8dceeb092fcf18f4978_16e5ba08fb.jpg
+[173/197]
+[OK] cones_d312938e9bd54f619230f0b58c661dae_jpg.rf.c9f5ec03558b1958c5c494c702072b2e_9023fe3f12.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_d312938e9bd54f619230f0b58c661dae_jpg.rf.c9f5ec03558b1958c5c494c702072b2e_9023fe3f12.jpg
+[174/197]
+[OK] cones_d3d4564a7f444aafbf830f6892776f92_jpg.rf.e9223636ff040fe2eade26d6887142f5_361f23a0b2.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_d3d4564a7f444aafbf830f6892776f92_jpg.rf.e9223636ff040fe2eade26d6887142f5_361f23a0b2.jpg
+[175/197]
+[OK] cones_dea5f17407d540559761a78633d8ca21_jpg.rf.aeeb2ff4c5e698e1805c3cf82391e412_aeb2fb4913.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_dea5f17407d540559761a78633d8ca21_jpg.rf.aeeb2ff4c5e698e1805c3cf82391e412_aeb2fb4913.jpg
+[176/197]
+[OK] cones_df14a63cdb2b49e0a58c7e4bb37ff17a_jpg.rf.58beda0af1af52a6d2d8b95ca7fac0eb_6d2295131c.jpg: 4 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_df14a63cdb2b49e0a58c7e4bb37ff17a_jpg.rf.58beda0af1af52a6d2d8b95ca7fac0eb_6d2295131c.jpg
+[177/197]
+[OK] cones_e02ebff948ab48e7bd9fa121f5a5edba_jpg.rf.cbdc042d6f16e24223b0b0f0b55db754_2ed8190e32.jpg: 5 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_e02ebff948ab48e7bd9fa121f5a5edba_jpg.rf.cbdc042d6f16e24223b0b0f0b55db754_2ed8190e32.jpg
+[178/197]
+[OK] cones_e0d8e6a31cbf4d5d89cb4343afd6b21c_jpg.rf.fcf5983161b93d85c49f97041b33a3f9_04cfacc412.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_e0d8e6a31cbf4d5d89cb4343afd6b21c_jpg.rf.fcf5983161b93d85c49f97041b33a3f9_04cfacc412.jpg
+[179/197]
+[OK] cones_e28733bbe014400694699de96cbaad2c_jpg.rf.e2bbec2b8806341ba0b33c6d6ac32754_aa7a91ec1d.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_e28733bbe014400694699de96cbaad2c_jpg.rf.e2bbec2b8806341ba0b33c6d6ac32754_aa7a91ec1d.jpg
+[180/197]
+[OK] cones_e6d9a9d90e354b15995bd7797731caf3_jpg.rf.0881e42e7ef05a3ef0f9225e7dffd322_a286d29e96.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_e6d9a9d90e354b15995bd7797731caf3_jpg.rf.0881e42e7ef05a3ef0f9225e7dffd322_a286d29e96.jpg
+[181/197]
+[OK] cones_e97edb789a984b66b61b8de96f8431b5_jpg.rf.29987926fad3b43a0ee4b32fd2ef0223_5d56c50791.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_e97edb789a984b66b61b8de96f8431b5_jpg.rf.29987926fad3b43a0ee4b32fd2ef0223_5d56c50791.jpg
+[182/197]
+[OK] cones_ebd1830c51e94915b081f91e0f01d1e4_jpg.rf.693ecc6e1f7be9ea594bf1846476c414_dcad0c345b.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_ebd1830c51e94915b081f91e0f01d1e4_jpg.rf.693ecc6e1f7be9ea594bf1846476c414_dcad0c345b.jpg
+[183/197]
+[OK] cones_ec5251068d03490eab77f6477583925d_jpg.rf.1634cc0e26e08d621391fde38a33b483_ee5720260b.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_ec5251068d03490eab77f6477583925d_jpg.rf.1634cc0e26e08d621391fde38a33b483_ee5720260b.jpg
+[184/197]
+[OK] cones_ec96b3e55c884a3c9b490c803564d51c_jpg.rf.2dc90cfed8c14bb653f8f6aca6dfdd69_218ba2ea81.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_ec96b3e55c884a3c9b490c803564d51c_jpg.rf.2dc90cfed8c14bb653f8f6aca6dfdd69_218ba2ea81.jpg
+[185/197]
+[OK] cones_ec96b3e55c884a3c9b490c803564d51c_jpg.rf.bfb17c58e1d48b885cdecad9d452eeb2_a3efc07fbd.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_ec96b3e55c884a3c9b490c803564d51c_jpg.rf.bfb17c58e1d48b885cdecad9d452eeb2_a3efc07fbd.jpg
+[186/197]
+[OK] cones_f045410ff1c64f4db329b68d901290a0_jpg.rf.acd68461e694dc6c3303d2d7fdb4115c_c6e7bbd340.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_f045410ff1c64f4db329b68d901290a0_jpg.rf.acd68461e694dc6c3303d2d7fdb4115c_c6e7bbd340.jpg
+[187/197]
+[OK] cones_f05b5855e45c48c69bdfbbd23d163e63_jpg.rf.0f457434a3f2872a89a814f18dce1c28_94a153bd33.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_f05b5855e45c48c69bdfbbd23d163e63_jpg.rf.0f457434a3f2872a89a814f18dce1c28_94a153bd33.jpg
+[188/197]
+[OK] cones_f1625ebfb4e64c04afb5235396348ee1_jpg.rf.480ed0ce406149988ae4f1c1573f544f_35a0fde3ae.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_f1625ebfb4e64c04afb5235396348ee1_jpg.rf.480ed0ce406149988ae4f1c1573f544f_35a0fde3ae.jpg
+[189/197]
+[OK] cones_f1625ebfb4e64c04afb5235396348ee1_jpg.rf.e9a48c326c063137246d08d53a72ace3_db4a45cc44.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_f1625ebfb4e64c04afb5235396348ee1_jpg.rf.e9a48c326c063137246d08d53a72ace3_db4a45cc44.jpg
+[190/197]
+[OK] cones_f5d9ab3544aa4eb2acf2f2e8802a3c2d_jpg.rf.f30ff82395b1000f1905daa89143810b_dabf777a47.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_f5d9ab3544aa4eb2acf2f2e8802a3c2d_jpg.rf.f30ff82395b1000f1905daa89143810b_dabf777a47.jpg
+[191/197]
+[OK] cones_f62870f6a82e4325890803d5ac9ff555_jpg.rf.7ddbfb4de1c20558a02643391d6497af_b56642ab01.jpg: 2 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_f62870f6a82e4325890803d5ac9ff555_jpg.rf.7ddbfb4de1c20558a02643391d6497af_b56642ab01.jpg
+[192/197]
+[OK] cones_f864f823bc1a4bc7ab72f6652c820ef1_jpg.rf.f17125aa50fef7ad16bc5662d466f9b4_fa578907ef.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_f864f823bc1a4bc7ab72f6652c820ef1_jpg.rf.f17125aa50fef7ad16bc5662d466f9b4_fa578907ef.jpg
+[193/197]
+[OK] cones_f9b06b16336942959713149e2d89e50e_jpg.rf.d38658b1db3f346d965ba20eac6f3cf8_49e5144394.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_f9b06b16336942959713149e2d89e50e_jpg.rf.d38658b1db3f346d965ba20eac6f3cf8_49e5144394.jpg
+[194/197]
+[OK] cones_fa412d606d844b76a4c699564a8a80e4_jpg.rf.68d22bba4442f3156ed5e89d700821f2_4d8d61f799.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_fa412d606d844b76a4c699564a8a80e4_jpg.rf.68d22bba4442f3156ed5e89d700821f2_4d8d61f799.jpg
+[195/197]
+[OK] cones_fa412d606d844b76a4c699564a8a80e4_jpg.rf.bd4e9ce7595359fde6d0b3e66bc2c911_ac28fc96a9.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_fa412d606d844b76a4c699564a8a80e4_jpg.rf.bd4e9ce7595359fde6d0b3e66bc2c911_ac28fc96a9.jpg
+[196/197]
+[OK] cones_fe3da93d230c44ad8532135dc9ea151f_jpg.rf.7afc822185ceaa1dd226914066a50715_2bad84c18f.jpg: 1 detection(s) -> runs/benchmark/gpu_outputs/annotated_cones_fe3da93d230c44ad8532135dc9ea151f_jpg.rf.7afc822185ceaa1dd226914066a50715_2bad84c18f.jpg
+[197/197]
+
+[SAVED] Annotated images: /home/ammaar/Documents/zzz HACKS&PROJS/eric_assisment/robot-nav-distance/runs/benchmark/gpu_outputs
+[SAVED] CSV report: /home/ammaar/Documents/zzz HACKS&PROJS/eric_assisment/robot-nav-distance/runs/benchmark/gpu_outputs/detections.csv
+Images processed: 197; detections: 367
+Mean YOLO inference: 8.91 ms/image
+Median YOLO inference: 8.78 ms/image
+YOLO throughput: 112.18 FPS (approx.; excludes depth-model time)
+Total elapsed time: 2.79 s

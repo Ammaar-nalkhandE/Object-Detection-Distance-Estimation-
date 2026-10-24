@@ -1,0 +1,6 @@
+image,class,confidence,x1,y1,x2,y2,bbox_width_px,estimated_distance_m,relative_depth_score,relative_depth_label,distance_status
+1.jpeg,stop_sign,0.973280,150,105,235,200,85,,1.0000,relative only,relative_only_not_metres
+2.jpeg,stop_sign,0.976875,187,101,290,223,103,,0.6279,relative only,relative_only_not_metres
+3.jpeg,cone,0.760559,158,383,261,549,103,,0.6095,relative only,relative_only_not_metres
+4.jpeg,cone,0.652423,104,182,271,430,167,,0.5305,relative only,relative_only_not_metres
+5.jpeg,cone,0.744455,77,54,149,182,72,,0.7374,relative only,relative_only_not_metres

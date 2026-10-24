@@ -1,0 +1,10 @@
+# Two-class robotics navigation baseline
+path: data_2class
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names:
+  0: cone
+  1: stop_sign

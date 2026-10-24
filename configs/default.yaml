@@ -1,0 +1,19 @@
+# Camera settings. Replace the defaults with values measured for your camera.
+camera:
+  # Used only when focal_length_px is null. This is a rough fallback.
+  horizontal_fov_deg: 70.0
+  # Preferred: calibrated focal length in pixels for the inference image resolution.
+  # Set this to the value printed by scripts/calibrate_focal_length.py after calibration.
+  focal_length_px: null
+
+# Approximate physical widths used for monocular width-based ranging.
+# Measure your own objects whenever possible. These defaults are illustrative only.
+object_widths_m:
+  cone: 0.30
+  barrier: 1.50
+  stop_sign: 0.75
+
+inference:
+  confidence: 0.25
+  image_size: 640
+  device: auto # auto, cpu, or 0 (first CUDA GPU)

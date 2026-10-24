@@ -1,0 +1,10 @@
+# Initial baseline: cones and stop signs
+path: /home/ammaar/Documents/zzz HACKS&PROJS/eric_assisment/robot-nav-distance/data
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names:
+  0: cone
+  1: stop_sign
