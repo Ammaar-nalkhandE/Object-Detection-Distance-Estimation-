@@ -227,7 +227,7 @@ Use measured values only; leave entries blank until you run the relevant experim
 |---|---|---:|---:|---:|---:|---:|
 | YOLO11n `.pt` | CPU | 640 | — | 20.59* | 48.56* | 0.766** |
 | YOLO11n `.pt` | NVIDIA RTX 2050 | 640 | — | 112.18* | 8.91* | 0.766** |
-| Exported model (if tested) | Target device | 640 | — | — | — | — |
+
 
 `*` Inference benchmark values from the reported CPU/GPU run. `**` mAP is from the separate held-out test evaluation, not from the timing benchmark itself.
 
